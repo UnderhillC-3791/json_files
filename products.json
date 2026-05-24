@@ -1,5 +1,4 @@
 [
-
     {
     "ProductId": "P001",
     "ProductName": "JolieLeatherCrossBodyBag",
@@ -30,7 +29,7 @@
         "MSRP": "479",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "Leather backpack features 2 slide pockets, 1 back slide pocket, 1 back zip pocket, and a top handle with 2 adjustable & detachable backpack/crossbody straps.",
+        "Description": "Leather backpack features 2 slide pockets, 1 back slide pocket, 1 back zip pocket.",
         "BRAND":"Fossil"
     },
     {
@@ -41,7 +40,7 @@
         "MSRP": "429",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "Leather trim, magnetic strap, gold hardware, 1 slide pocket, detachable and adjustable crossbody strap.",
+        "Description": "Leather trim, magnetic strap, gold hardware, 1 slide pocket, detachable strap.",
         "BRAND":"Fossil"
     },
     {
@@ -63,7 +62,7 @@
         "MSRP": "429",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "100% Recyled Nylon, 2 way script logo lining, interior back zip pocket, front slip pockets, zip closure, comes with crossbody strap.",
+        "Description": "100% Recyled Nylon, 2 way script logo lining, interior back zip pocket.",
         "BRAND":"KateSpade"
     },
     {
@@ -85,7 +84,7 @@
         "MSRP": "359",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "Saffiano PVC, gold hardware, fabric lining, 2 slip pockets, 1 zip pocket, Zip closure, metal logo",
+        "Description": "Saffiano PVC, gold hardware, fabric lining, 2 slip pockets, 1 zip pocket.",
         "BRAND":"KateSpade"
     },
     {
@@ -107,7 +106,7 @@
         "MSRP": "329",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "Suede, Silver hardware, fabric lining, Adjustable shoulder straps, 1 zip pocket, 1 slip pocket",
+        "Description": "Suede, Silver hardware, fabric lining, Adjustable shoulder straps, 1 zip pocket",
         "BRAND":"KateSpade"
     },
     {
@@ -118,7 +117,7 @@
         "MSRP": "660",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "Full grain leather, top zip closure, top handle, removeable and adjustable strap, 1 interior zip pocket, 2 slip pockets, 1 card slot. Dustbag included.",
+        "Description": "Full grain leather, top zip closure, top handle, removeable and adjustable strap.",
         "BRAND":"MarcJacobs"
     },
     {
@@ -151,7 +150,7 @@
         "MSRP": "265",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "Full grain leather, magnetic closure, 1 slip pocket, 8 card slots, adjustable and removeable webbing strap, twill lining, dustbag included.",
+        "Description": "Full grain leather, magnetic closure, 1 slip pocket, 8 card slots, adjustable strap.",
         "BRAND":"MarcJacobs"
     },
     {
@@ -162,8 +161,7 @@
         "MSRP": "660",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "Full Grain Leather, Magnetic closure, Adjustable belted shoulder strap, internal zip pocket, Cotton twill lining, dust bag included.",
+        "Description": "Full Grain Leather, Magnetic closure, Adjustable belted shoulder strap.",
         "BRAND":"MarcJacobs"
     }
-
 ]
