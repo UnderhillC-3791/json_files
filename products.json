@@ -1,0 +1,182 @@
+{
+  "Brands": [
+    {
+      "Name": "Fossil"
+    },
+    {
+      "Name": "KateSpade"
+    },
+    {
+      "Name": "MarkJacobs"
+    }    
+  ],
+
+  "Products": [
+    {
+      "Id": "P001",
+      "BrandId": 1,
+      "ProductName": "JolieLeatherCrossBodyBag",
+      "GraphicName": "fossil_JolieCrossBody.png",
+      "CostPrice": 189,
+      "MSRP": 279,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Leather trim, adjustable & detachable strap, gold hardware, 2 slide pocket, 1 zip pocket."
+    },
+    {
+      "Id": "P002",
+      "BrandId": 1,
+      "ProductName": "Logan RFID Zip Around Clutch",
+      "GraphicName": "fossil_LoganZipClutch.png",
+      "CostPrice": 89,
+      "MSRP": 139,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Leather clutch with 12 Credit Card slots, interior pocket, detachable wristlet."
+    },
+    {
+      "Id": "P003",
+      "BrandId": 1,
+      "ProductName": "Parker Leather BackPack",
+      "GraphicName": "fossil_ParkerBackPack.png",
+      "CostPrice": 89,
+      "MSRP": 479,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Leather backpack features 2 slide pockets, 1 back slide pocket, 1 back zip pocket, and a top handle with 2 adjustable & detachable backpack/crossbody straps."
+    },
+    {
+      "Id": "P004",
+      "BrandId": 1,
+      "ProductName": "Jessie Leather Bucket Shoulder Bag",
+      "GraphicName": "fossil_JessieBucketBag.png",
+      "CostPrice": 389,
+      "MSRP": 429,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Leather trim, magnetic strap, gold hardware, 1 slide pocket, detachable and adjustable crossbody strap."
+    },
+    {
+      "Id": "P005",
+      "BrandId": 1,
+      "ProductName": "LoganCardCase",
+      "GraphicName": "fossil_LoganCardCase.png",
+      "CostPrice": 69,
+      "MSRP": 85,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Leather card case features 3 credit card slots, 1 ID window and 1 front zip pocket."
+    },
+    {
+      "Id": "P006",
+      "BrandId": 2,
+      "ProductName": "Margo Suede Shoulder Bag",
+      "GraphicName": "kateSpade_WeekenderBag.png",
+      "CostPrice": 149,
+      "MSRP": 429,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "100% Recyled Nylon, 2 way script logo lining, interior back zip pocket, front slip pockets, zip closure, comes with crossbody strap."
+    },
+    {
+      "Id": "P007",
+      "BrandId": 2,
+      "ProductName": "Kayla Large Slim Cardholder",
+      "GraphicName": "kateSpade_Cardholder.png",
+      "CostPrice": 49,
+      "MSRP": 149,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Pebbled leather, argentina hardware, 2 exterior pockets, 8 credit card slots."
+    },
+    {
+      "Id": "P008",
+      "BrandId": 2,
+      "ProductName": "Gwen Tote Bag",
+      "GraphicName": "kateSpade_GwenToteBag.png",
+      "CostPrice": 89,
+      "MSRP": 359,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Saffiano PVC, gold hardware, fabric lining, 2 slip pockets, 1 zip pocket, Zip closure, metal logo"
+    },
+    {
+      "Id": "P009",
+      "BrandId": 2,
+      "ProductName": "CardCaseLanyard",
+      "GraphicName": "kateSpade_CardCaseLanyard.png",
+      "CostPrice": 35,
+      "MSRP": 129,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Saffiano Leather, 2 way script logo, zip top closure, metal pinmount with spade"
+    },
+    {
+      "Id": "P010",
+      "BrandId": 2,
+      "ProductName": "Margot Suede Shoulder Bag",
+      "GraphicName": "kateSpade_ShoulderBag.png",
+      "CostPrice": 149,
+      "MSRP": 329,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Suede, Silver hardware, fabric lining, Adjustable shoulder straps, 1 zip pocket, 1 slip pocket"
+    },
+    {
+      "Id": "P011",
+      "BrandId": 3,
+      "ProductName": "The Leather Medium Tote Bag",
+      "GraphicName": "marcJacobs_ToteBag.png",
+      "CostPrice": 389,
+      "MSRP": 660,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Full grain leather, top zip closure, top handle, removeable and adjustable strap, 1 interior zip pocket, 2 slip pockets, 1 card slot. Dustbag included."
+    },
+    {
+      "Id": "P012",
+      "BrandId": 3,
+      "ProductName": "The Leather Pouch",
+      "GraphicName": "marcJacobs_LeatherPouch.png",
+      "CostPrice": 89,
+      "MSRP": 130,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Pepple Leather, Top Zip Closure, Removeable Wristlet Strap, Twill Lining, dustbag included."
+    },
+    {
+      "Id": "P013",
+      "BrandId": 3,
+      "ProductName": "Scene Card Case",
+      "GraphicName": "marcJacobs_CardCase.png",
+      "CostPrice": 120,
+      "MSRP": 199,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Smooth Leather, 4 card slots, 1 center pocket, twill lining, dustbag included."
+    },
+    {
+      "Id": "P014",
+      "BrandId": 3,
+      "ProductName": "The Leather Mini Bag",
+      "GraphicName": "marcJacobs_LeatherMiniBag.png",
+      "CostPrice": 189,
+      "MSRP": 265,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Full grain leather, magnetic closure, 1 slip pocket, 8 card slots, adjustable and removeable webbing strap, twill lining, dustbag included."
+    },
+    {
+      "Id": "P015",
+      "BrandId": 3,
+      "ProductName": "Belted Sack Bag",
+      "GraphicName": "marcJacobs_BeltedSackBag.png",
+      "CostPrice": 498,
+      "MSRP": 660,
+      "QtyOnHand": 25,
+      "QtyOnBackOrder": 0,
+      "Description": "Full Grain Leather, Magnetic closure, Adjustable belted shoulder strap, internal zip pocket, Cotton twill lining, dust bag included."
+    }
+
+  ]
+}
