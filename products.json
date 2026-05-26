@@ -2,7 +2,7 @@
     {
         "ProductId": "P001",
         "ProductName": "JolieLeatherCrossBodyBag",
-        "GraphicName": "fos_CrossBody.png",
+        "GraphicName": "P001.png",
         "CostPrice": "189",
         "MSRP": "279",
         "QtyOnHand": "25",
@@ -13,7 +13,7 @@
     {
         "ProductId": "P002",
         "ProductName": "Logan RFID Zip Around Clutch",
-        "GraphicName": "fos_Clutch.png",
+        "GraphicName": "P002.png",
         "CostPrice": "89",
         "MSRP": "139",
         "QtyOnHand": "25",
@@ -24,7 +24,7 @@
     {
         "ProductId": "P003",
         "ProductName": "Parker Leather BackPack",
-        "GraphicName": "fos_BackPack.png",
+        "GraphicName": "P003.png",
         "CostPrice": "89",
         "MSRP": "479",
         "QtyOnHand": "25",
@@ -35,7 +35,7 @@
     {
         "ProductId": "P004",
         "ProductName": "Jessie Leather Bucket Shoulder Bag",
-        "GraphicName": "fos_BucketBag.png",
+        "GraphicName": "P004.png",
         "CostPrice": "389",
         "MSRP": "429",
         "QtyOnHand": "25",
@@ -46,7 +46,7 @@
     {
         "ProductId": "P005",
         "ProductName": "LoganCardCase",
-        "GraphicName": "fos_CardCase.png",
+        "GraphicName": "P005.png",
         "CostPrice": "69",
         "MSRP": "85",
         "QtyOnHand": "25",
@@ -57,7 +57,7 @@
     {
         "ProductId": "P006",
         "ProductName": "Margo Suede Shoulder Bag",
-        "GraphicName": "ks_WndBag.png",
+        "GraphicName": "P006.png",
         "CostPrice": "149",
         "MSRP": "429",
         "QtyOnHand": "25",
@@ -68,7 +68,7 @@
     {
         "ProductId": "P007",
         "ProductName": "Kayla Large Slim Cardholder",
-        "GraphicName": "ks_Cardholder.png",
+        "GraphicName": "P007.png",
         "CostPrice": "49",
         "MSRP": "149",
         "QtyOnHand": "25",
@@ -79,7 +79,7 @@
     {
         "ProductId": "P008",    
         "ProductName": "Gwen Tote Bag",
-        "GraphicName": "ks_ToteBag.png",
+        "GraphicName": "P008.png",
         "CostPrice": "89",
         "MSRP": "359",
         "QtyOnHand": "25",
@@ -90,7 +90,7 @@
     {
         "ProductId": "P009",
         "ProductName": "CardCaseLanyard",
-        "GraphicName": "s_Lanyard.png",
+        "GraphicName": "P009.png",
         "CostPrice": "35",
         "MSRP": "129",
         "QtyOnHand": "25",
@@ -101,7 +101,7 @@
     {
         "ProductId": "P010",
         "ProductName": "Margot Suede Shoulder Bag",
-        "GraphicName": "ks_SBag.png",
+        "GraphicName": "P010.png",
         "CostPrice": "149",
         "MSRP": "329",
         "QtyOnHand": "25",
@@ -112,7 +112,7 @@
     {
         "ProductId": "P011",
         "ProductName": "The Leather Med Tote Bag",
-        "GraphicName": "mj_ToteBag.png",
+        "GraphicName": "P011.png",
         "CostPrice": "389",
         "MSRP": "660",
         "QtyOnHand": "25",
@@ -123,7 +123,7 @@
     {
         "ProductId": "P012",
         "ProductName": "The Leather Pouch",
-        "GraphicName": "mj_Pouch.png",
+        "GraphicName": "P012.png",
         "CostPrice": "89",
         "MSRP": "130",
         "QtyOnHand": "25",
@@ -134,7 +134,7 @@
     {
         "ProductId": "P013",
         "ProductName": "Scene Card Case",
-        "GraphicName": "mj_CardCase.png",
+        "GraphicName": "P013.png",
         "CostPrice": "120",
         "MSRP": "199",
         "QtyOnHand": "25",
@@ -145,7 +145,7 @@
     {
         "ProductId": "P014",
         "ProductName": "The Leather Mini Bag",
-        "GraphicName": "mj_MiniBag.png",
+        "GraphicName": "P014.png",
         "CostPrice": "189",
         "MSRP": "265",
         "QtyOnHand": "25",
@@ -156,7 +156,7 @@
     {
         "ProductId": "P015",
         "ProductName": "Belted Sack Bag",
-        "GraphicName": "mj_SackBag.png",
+        "GraphicName": "P015.png",
         "CostPrice": "498",
         "MSRP": "660",
         "QtyOnHand": "25",
