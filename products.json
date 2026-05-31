@@ -18,7 +18,7 @@
         "MSRP": "139",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "logan RFID zip clutch",
+        "Description": "This leather clutch features 12 credit card slots, an interior zip pocket, a gusseted coin pocket and a detachable wristlet strap.",
         "BRAND":"Fossil"
     },
     {
@@ -29,7 +29,7 @@
         "MSRP": "479",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "parket leather backpack",
+        "Description": "This LiteHide™ leather small backpack features 1 slide pocket, 1 zip pocket and 1 top handle, 2 adjustable & detachable backpack/crossbody straps. ",
         "BRAND":"Fossil"
     },
     {
@@ -40,29 +40,29 @@
         "MSRP": "429",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "jessie leather bucket shoulder bag",
+        "Description": "A relaxed bucket silhouette crafted from soft leather, the Jessie Bucket Shoulder Bag combines effortless design and functional details. The spacious interior includes a ziped pocket for secure storage to keep essentials organized. ",
         "BRAND":"Fossil"
     },
     {
         "ProductId": "P005",
-        "ProductName": "LoganCardCase",
+        "ProductName": "Logan Card Case",
         "GraphicName": "P005.png",
         "CostPrice": "69",
         "MSRP": "85",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "logan card case",
+        "Description": "This leather card case features 3 credit card slots, 1 ID window and 1 front zip pocket. ",
         "BRAND":"Fossil"
     },
     {
         "ProductId": "P006",
-        "ProductName": "Margo Suede Shoulder Bag",
+        "ProductName": "Margot Suede Shoulder Bag",
         "GraphicName": "P006.png",
         "CostPrice": "149",
         "MSRP": "429",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "margo suede shoulder bag",
+        "Description": "Our Margot suede should bag delievers a sleek touch to your wardrobe. its slim silhouette and convertible strap make it easy to style.",
         "BRAND":"KateSpade"
     },
     {
@@ -73,51 +73,51 @@
         "MSRP": "149",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "kayla large slim cardholder",
+        "Description": "Made from scratch resistant Saffiano leather, so it will last for years to come.",
         "BRAND":"KateSpade"
     },
     {
         "ProductId": "P008",    
-        "ProductName": "Gwen Tote Bag",
+        "ProductName": "Weekender Travel Bag",
         "GraphicName": "P008.png",
         "CostPrice": "89",
         "MSRP": "359",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "gwen tote bag",
+        "Description": "Made with durable material that maintains its look over time. Constructed with a coated fabric thats easy to clean.",
         "BRAND":"KateSpade"
     },
     {
         "ProductId": "P009",
-        "ProductName": "CardCaseLanyard",
+        "ProductName": "Card Case Lanyard",
         "GraphicName": "P009.png",
         "CostPrice": "35",
         "MSRP": "129",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "card case lanyard",
+        "Description": "Never misplace those ID cards again with our classic lanyard. wrapped in luxe pebbled leather.",
         "BRAND":"KateSpade"
     },
     {
         "ProductId": "P010",
-        "ProductName": "Margot Suede Shoulder Bag",
+        "ProductName": "Gwen Tote Bag",
         "GraphicName": "P010.png",
         "CostPrice": "149",
         "MSRP": "329",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "margot suede should bag",
+        "Description": "Our Gwen Tote bag zips shut, holds everything without drama, and has the interior pockets to prove its not just a pretty face.",
         "BRAND":"KateSpade"
     },
     {
         "ProductId": "P011",
-        "ProductName": "The Leather Med Tote Bag",
+        "ProductName": "Leather Medium Tote Bag",
         "GraphicName": "P011.png",
         "CostPrice": "389",
         "MSRP": "660",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "Leather Medium tote bag",
+        "Description": "The most classic version of our Medium Tote brings style to your every day with a quintessential Marc twist.",
         "BRAND":"MarcJacobs"
     },
     {
@@ -128,7 +128,7 @@
         "MSRP": "130",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "leather pouch",
+        "Description": "One pouch, endless potential. Crafted from pebble leather and finished with debossed namesake branding, this essential is made for life on-the-go. Use it as a wristlet, cosmetic case or your everyday catch-all",
         "BRAND":"MarcJacobs"
     },
     {
@@ -139,7 +139,7 @@
         "MSRP": "199",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "scene card case",
+        "Description": "Travel light with a chic and minimalist leather card case accented with a statement J Marc charm. This card case has four card slots and one center pocket.",
         "BRAND":"MarcJacobs"
     },
     {
@@ -150,7 +150,7 @@
         "MSRP": "265",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "leather mini bag",
+        "Description": "Mini bag, major personality. This crossbody is crafted in full grain leather, each bag is designed with our namesake branding and features one slip pocket and eight card slots.",
         "BRAND":"MarcJacobs"
     },
     {
@@ -161,7 +161,7 @@
         "MSRP": "660",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "belted sack bag",
+        "Description": "Not too big, not too small. The Sack Bag offers an elevated silhouette for every day. Crafted from full grain leather, this bag has an adjustable belted strap and removable oversized Marc Jacobs branded leather hang tag.",
         "BRAND":"MarcJacobs"
     }
 ]
