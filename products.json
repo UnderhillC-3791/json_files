@@ -1,13 +1,13 @@
 [
     {
         "ProductId": "P001",
-        "ProductName": "JolieLeatherCrossBodyBag",
+        "ProductName": "Jolie Leather Crossbody Bag",
         "GraphicName": "P001.png",
         "CostPrice": "189",
         "MSRP": "279",
         "QtyOnHand": "25",
         "QtyOnBackOrder": "0",
-        "Description": "jolie cross body bag",
+        "Description": "This LiteHide™ leather crossbody boasts a hidden side phone pocket and converts into a shoulder bag with a leather shoulder handle and an adjustable, removable crossbody strap. ",
         "BRAND":"Fossil"
     },
     {
